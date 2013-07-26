@@ -1,4 +1,4 @@
-redmine_add_frameworks
+Redmine Add Frameworks
 ======================
 
 Ease the process of adding external frameworks.

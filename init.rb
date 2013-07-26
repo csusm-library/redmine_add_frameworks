@@ -1,3 +1,5 @@
+require_dependency 'hooks/view_layouts_base_html_head_hook'
+
 Redmine::Plugin.register :redmine_add_frameworks do
   name 'Redmine Add Frameworks plugin'
   author 'Ian Chan'
